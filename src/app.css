@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+.text-color{
+    color: #F8B69D;
+}
+.text-gray {
+    color: #979797;
+}
+.background-color {
+    background: #F8B69D;
+}
